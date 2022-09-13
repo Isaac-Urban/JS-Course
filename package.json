@@ -1,0 +1,14 @@
+{
+    "name": "js-starter-code",
+    "version": "1.0.0",
+    "description": "Starting with JS",
+    "main": "script.js",
+    "scripts": {
+        "start": "lite-server"
+    },
+    "author": "Isaac",
+    "license": "ISC",
+    "devDependencies": {
+        "lite-server": "^2.5.4"
+    }
+}
