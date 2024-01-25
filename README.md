@@ -1,6 +1,6 @@
 # JS-Course
 
-# I'll upload my notes here
+# I'll upload my notes hereeeeeeeeeee
 
 # prompt- npm install before include "dependeces" in package.json
         {
